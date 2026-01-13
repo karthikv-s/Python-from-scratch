@@ -1,0 +1,6 @@
+print("Hello World")
+print("I am Karthik V S")
+print("I am going to draw an imaginary dog")
+print(' O----')
+print('  ||||')
+print('*' * 10)
